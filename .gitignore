@@ -2,7 +2,7 @@
 .env
 .env.local
 
-# Firebase config (if you want to keep it private)
+# Firebase config
 firebase-config.js
 
 # Dependencies
