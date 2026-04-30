@@ -2,9 +2,6 @@
 .env
 .env.local
 
-# Firebase config
-firebase-config.js
-
 # Dependencies
 node_modules/
 
